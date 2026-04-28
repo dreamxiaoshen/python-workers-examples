@@ -15,6 +15,3 @@ dev = [
     "workers-py",
     "workers-runtime-sdk"
 ]
-# 彻底禁用静态站点逻辑
-[site]
-enabled = false
